@@ -1,13 +1,15 @@
-# 👋 Hi, I'm Birendra Singh Dhami 
+<h1 align="center">👋 Hi, I'm Birendra Singh Dhami</h1>
 
-💻 **MERN Stack Developer** | 🌍 Passionate about building scalable web apps | 🚀 Always learning new tech  
+<p align="center">
+💻 <b>MERN Stack Developer</b> | 🌍 Passionate about building scalable web apps | 🚀 Always learning new tech
+</p>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🔭 I’m currently working on **MERN projects** (MongoDB, Express.js, React.js, Node.js)  
-- 🌱 I’m learning **Next.js ,ReactNative**  
-- 👯 I’m looking to collaborate on **open-source projects**  
+- 🔭 Currently working on **MERN projects** (MongoDB, Express.js, React.js, Node.js)  
+- 🌱 Learning **Next.js & React Native**  
+- 👯 Open to collaborate on **open-source projects**  
 - 📫 Reach me at: **dhamib610@gmail.com**  
 - ⚡ Fun fact: I turn ☕ into clean code  
 
@@ -19,7 +21,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### ⚙️ Backend  
@@ -34,24 +36,40 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
- 
-## 📊 GitHub Status
 
-![Biren07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=radical)  
+## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=radical" height="180" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biren07&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biren07&theme=radical" height="180" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Biren07&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biren07&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://birendra-portfolio-one.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birendra-c-ingh-dhami-6264b7279/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamib610@gmail.com)  
+<p align="center">
+  <a href="https://birendra-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/birendra-c-ingh-dhami-6264b7279/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dhamib610@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/Biren07/Biren07/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">✨ <i>“Code is like humor. When you have to explain it, it’s bad.”</i> ✨</p>
