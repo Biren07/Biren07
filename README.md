@@ -49,7 +49,7 @@
 
 ## 🌐 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](birendra-portfolio-one.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://birendra-portfolio-one.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birendra-c-ingh-dhami-6264b7279/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamib610@gmail.com)  
 
