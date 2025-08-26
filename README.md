@@ -34,11 +34,16 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
+ 
+## 📊 GitHub Status
 
-## 📊 GitHub Stats  
+![Biren07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=radical)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=radical)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biren07&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Biren07&color=blueviolet&style=flat)
 
 ---
 
