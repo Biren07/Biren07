@@ -1,8 +1,7 @@
-
 👋 Hi, I'm Birendra Singh Dhami
 <p align="center"> 🧪 <b>QA Engineer (Fresher)</b> | 💻 MERN Stack Background | 🔍 Manual & Automation Testing (Python + pytest) </p>
 🧑‍💻 About Me
-🧪 Fresher QA Engineer with strong Web Development (MERN) background
+🧪 Fresher QA Engineer with strong MERN Stack Development background
 🔍 Skilled in Manual Testing, Test Case Design, and Bug Reporting
 🤖 Currently learning Automation Testing using Selenium & pytest (Python)
 🌐 Experienced in testing React & MERN-based web applications
@@ -22,23 +21,20 @@ Bug Reporting & Tracking
 🤖 Automation Testing (Python)
 Selenium WebDriver (Python)
 pytest framework
-Assertions & test execution
-Fixtures & basic framework concepts
-Automated login & form validation tests
+Assertions, fixtures & test execution
+Basic automation framework concepts
 
 💻 Development Background (MERN)
 This gives me an edge as a QA Engineer 👇
 
-Strong understanding of frontend & backend workflows
-Ability to identify root causes of bugs faster
-Better communication with developers during defect resolution
-🚀 Tech Stack
-React.js, Redux
-Node.js, Express.js
-MongoDB
-HTML, CSS, JavaScript
-REST APIs
+Clear understanding of frontend & backend workflows
+Faster root-cause analysis of defects
+Better collaboration with developers
 
+🚀 Main MERN Stack Tools
+🌐 Frontend
+<p> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p>⚙️ Backend
+<p> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
 🛠️ Tools & Technologies
 🔧 QA & Testing Tools
 <p> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> </p>🧰 Dev & Other Tools
@@ -47,12 +43,12 @@ REST APIs
 🔹 Web Application Testing (MERN Project)
 Designed test scenarios & test cases
 Performed functional, regression & UI testing
-Identified, reported, and tracked bugs using JIRA
-Conducted API testing using Postman
+Logged & tracked bugs using JIRA
+Performed API testing using Postman
 🔹 Automation Practice (Python + pytest)
-Automated login & form validation workflows
+Automated login & form validation flows
 Implemented pytest assertions & fixtures
-Executed automated test cases using Selenium
+Executed automated tests using Selenium
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=radical" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=radical" height="180" /> </p>
