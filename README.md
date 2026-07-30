@@ -1,71 +1,177 @@
 # 👋 Hi, I'm Birendra Singh Dhami
 
 <p align="center">
-🧪 <b>Full Stack </b> | 💻 MERN Stack 
+  <h3 align="center">
+    Full Stack Developer • Manual QA Engineer
+  </h3>
+
+  <p align="center">
+    Building scalable web applications and ensuring software quality through effective testing.
+  </p>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🧪 ** Learn QA Engineer** with strong **MERN Stack Development** background
-- 🔍 Skilled in **Manual Testing**, **Test Case Design**, and **Bug Reporting**
-- 🤖 Currently learning **Automation Testing using Selenium & pytest (Python)**
-- 🌐 Experienced in testing **React & MERN-based web applications**
-- 📚 Solid understanding of **SDLC, STLC & Bug Life Cycle**
-- 📫 Reach me at: **dhamib610@gmail.com**
-- ⚡ Fun fact: I break apps to make them better 😄
-
-## 🚀 Main MERN Stack Tools
-
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 🧰 Dev & Other Tools
-<p>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=radical" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=radical" height="180" />
+  <img src="https://komarev.com/ghpvc/?username=Biren07&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Biren07?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Biren07?affiliations=OWNER&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 About Me
+
+I'm a **Full Stack Developer** with **1.5+ years of professional experience** building modern, scalable, and production-ready web applications.
+
+Alongside development, I also work as a **Manual QA Engineer**, ensuring applications meet quality standards through manual testing, bug reporting, regression testing, and functional validation.
+
+I enjoy building reliable software, writing clean code, identifying issues before release, and continuously learning new technologies.
+
+---
+
+# 💼 What I Do
+
+### 💻 Full Stack Development
+
+* Develop modern web applications
+* Build scalable REST APIs
+* Design responsive user interfaces
+* Database design & optimization
+* Authentication & Authorization
+* Third-party API Integration
+* Performance Optimization
+
+### 🧪 Manual QA
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* UI/UX Testing
+* API Testing using Postman
+* Test Case Design
+* Bug Reporting
+* Requirement Validation
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* API Testing
+* Bug Reporting
+* Test Case Design
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,vercel" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Flutter
+* Selenium
+* Python for Test Automation
+* Advanced NestJS
+* System Design
+* Microservices
+* CI/CD
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<a href="https://my-portfolio-psi-pink-73.vercel.app/">
-<img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Biren07&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biren07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Biren07&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Areas of Interest
+
+* Full Stack Development
+* Backend Development
+* Manual QA
+* API Development
+* Software Architecture
+* Performance Optimization
+* Clean Code
+* System Design
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://my-portfolio-psi-pink-73.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/birendra-c-ingh-dhami-6264b7279/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="https://www.linkedin.com/in/birendra-c-ingh-dhami-6264b7279">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:dhamib610@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Biren07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">✨ <i>“Good software is tested, great software is well understood.”</i> ✨</p>
+# 💡 Quote
+
+<p align="center">
+
+> **"Quality is never an accident. It is always the result of intelligent effort."**
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
